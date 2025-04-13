@@ -5,6 +5,9 @@ http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
 #EXTINF:-1 tvg-id="Caracol TV2",Caracol TV2
 http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/4958
 
+#EXTINF:-1 tvg-id="Caracol TV3",Caracol TV3
+http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/5251
+
 #EXTINF:-1 tvg-id="Locomotion TV",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -81,8 +84,8 @@ http://279071586221818761.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/818761.ts
 #EXTINF:-1 tvg-id="Cine canal",Cine canal
 http://279071586221817802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817802.ts
 
-#EXTINF:-1 tvg-id="Cinemax 2",Cinemax 2  ok
-http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax",Cinemax
+http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/5134
 
 #EXTINF:-1 tvg-id="Cinemax hd",Cinemax hd
 http://279071586221696989.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/696989.ts
@@ -91,7 +94,7 @@ http://279071586221696989.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/696989.ts
 http://279071586221657200.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/657200.ts
 
 #EXTINF:-1 tvg-id="HBO Family 2",HBO Family 2
-http://279071586221657199.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/657199.ts
+http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/4974
 
 #EXTINF:-1 tvg-id="HBO +",HBO +
 http://279071586221669693.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/669693.ts

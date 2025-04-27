@@ -1,8 +1,8 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="Caracol TV",Caracol TV
-http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
+http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV2",Caracol TV2
 http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/4958
 
 
+http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8

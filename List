@@ -10,3 +10,278 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="Caracol TV 4",Caracol TV4
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Caracol TV",Caracol TV
+http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
+
+#EXTINF:-1 tvg-id="Caracol TV2",Caracol TV2
+http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/4958
+
+#EXTINF:-1 tvg-id="Caracol TV3",Caracol TV3
+http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/5251
+
+#EXTINF:-1 tvg-id="Locomotion TV",Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Nick Latino",Pluto TV Nick Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+
+
+#EXTINF:-1, CANAL UNO
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1, RCN+
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Citytv Bogotá",Citytv Bogotá
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+#EXTINF:-1 tvg-id="Canal 1",Canal 1
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+#EXTINF:-1 tvg-id="V Classic TV  ",V Classic TV 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine Sony ",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anime accion",Anime accion
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Naruto",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="YU GI OH !",YU GI OH !
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%25%207BTARGETOPT%257D&ID%20del%20dispositivo%20=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="TV Pelea",TV pelea
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="VR Troppers",VR Troppers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-id="Cine Terror",Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%25%207BTARGETOPT%257D&ID%20del%20dispositivo%20=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Anime pluto",Anime pluto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="ToonTubers",ToonTubers
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Cine Sony",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinerama",Cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Golden SD",Golden SD
+http://279071586221818761.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/818761.ts
+
+#EXTINF:-1 tvg-id="Golden Plus",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Golden premier",Golden premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony 2",Sony2
+http://279071586221712802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/712802.ts
+
+#EXTINF:-1 tvg-id="Axn",Axn
+http://279071586221812456.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/812456.ts
+
+#EXTINF:-1 tvg-id="StarZ",StarZ
+http://279071586221817812.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817812.ts
+
+#EXTINF:-1 tvg-id="Star",Star
+http://279071586221818761.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/818761.ts
+
+#EXTINF:-1 tvg-id="Cine canal",Cine canal
+http://279071586221817802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817802.ts
+
+#EXTINF:-1 tvg-id="Cinemax",Cinemax
+http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/5134
+
+#EXTINF:-1 tvg-id="Cinemax hd",Cinemax hd
+http://279071586221696989.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/696989.ts
+
+#EXTINF:-1 tvg-id="HBO",HBO
+http://279071586221657200.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/657200.ts
+
+#EXTINF:-1 tvg-id="HBO Family 2",HBO Family 2
+http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/4974
+
+#EXTINF:-1 tvg-id="HBO +",HBO +
+http://279071586221669693.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/669693.ts
+
+#EXTINF:-1 tvg-id="Space +",Space
+http://279071586221817811.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817811.ts
+
+#EXTINF:-1 tvg-id="Universal Studio",Universal Studio
+http://279071586221712803.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/712803.ts
+
+#EXTINF:-1 tvg-id="True TV",True TV
+http://279071586221777371.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/777371.ts
+
+#EXTINF:-1, "AMC",AMC
+http://279071586221645655.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/645655.ts
+
+#EXTINF:-1 tvg-id="space",space
+http://279071586221812179.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/812179.ts
+
+#EXTINF:-1 tvg-id="space2",space2
+http://mohdtv.com:8880/voay4085/d1z3756d/58003
+
+#EXTINF:-1 tvg-id="FX",FX
+http://279071586221810699.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810699.ts
+
+#EXTINF:-1 tvg-id="FX2",FX2
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+
+#EXTINF:-1 tvg-id="S0ny",S0ny
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Warner hd",Warnes hd
+http://279071586221820218.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/820218.ts
+
+#EXTINF:-1 tvg-id="Cinema31",Cinema31
+http://279071586221810692.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810692.ts
+
+#EXTINF:-1 tvg-id="Cinema33",Cinema33
+http://279071586221810693.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810693.ts
+
+#EXTINF:-1 tvg-id="5TAR2",5TAR2
+http://mohdtv.com:8880/voay4085/d1z3756d/58002
+
+#EXTINF:-1 tvg-id="5TAR3",5TAR3
+http://mohdtv.com:8880/voay4085/d1z3756d/49681
+
+#EXTINF:-1 tvg-id="Win Sport +",Win Sport+
+http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="Win Sport",Win Sport
+http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 1",ESPN 1
+http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2",ESPN 2
+http://tv.teleclub.xyz/stream/server_2/deportes/espn2/master.m3u8
+
+"Peliculas"
+
+#EXTINF:-1 tvg-id="Alicia en el pais de las maravillas",Alicia en el pais de las maravillas
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34117.mp4
+
+#EXTINF:-1 tvg-id="Alicia atravez del espejo",Alicia atravez del espejo
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34116.mp4
+
+#EXTINF:-1 tvg-id="Dia de la independencia",Dia de la independencia
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34539.mkv
+
+#EXTINF:-1 tvg-id="Dia de la independencia Contra ataque",Dia de la independencia Contra ataque
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34540.mp4
+
+#EXTINF:-1 tvg-id="Dracula",Dracula
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34606.mkv
+
+#EXTINF:-1 tvg-id="El Hobbit un viaje inesperado",El Hobbit un viaje inesperado
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34778.mp4
+
+#EXTINF:-1 tvg-id="El Hobbit La desolasion de smaug",El Hobbit La desolasion de smaug
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34776.mp4
+
+#EXTINF:-1 tvg-id="El Hobbit la batalla de los 5 ejercitos",El Hobbit la batalla de los 5 ejercitos
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34774.mp4
+
+#EXTINF:-1 tvg-id="El Señor De Los Anillos: La Comunidad Del Anillo",El Señor De Los Anillos: La Comunidad Del Anillo
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34958.mp4
+
+#EXTINF:-1 tvg-id="El Señor De Los Anillos: Las Dos Torres",El Señor De Los Anillos: Las Dos Torres
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34959.mkv
+
+#EXTINF:-1 tvg-id="El Señor De Los Anillos: El Retorno Del Rey",El Señor De Los Anillos: El Retorno Del Rey
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34957.mp4
+
+#EXTINF:-1 tvg-id="El Rey Escorpión",El Rey Escorpión
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34934.mp4
+
+#EXTINF:-1 tvg-id="El Rey Escorpión 2",El Rey Escorpión 2.
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34931.mp4
+
+#EXTINF:-1 tvg-id="Escuadron suicida",Escuadron suicida
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35025.mkv
+
+#EXTINF:-1 tvg-id="Gigantes De Acero",Gigantes De Acero
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35150.mp4
+
+#EXTINF:-1 tvg-id="Mad max furia en la carretera",Mad max furia en la carretera
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/35995.mkv
+
+#EXTINF:-1 tvg-id="Regreso al futuro 1",Regreso al futuro 1
+http://wanicelife.com:8880/movie/60mkk110007/21841672/36581.mp4
+
+#EXTINF:-1 tvg-id="Regreso al futuro 2",Regreso al futuro 2
+http://wanicelife.com:8880/movie/60mkk110007/21841672/36579.mp4
+
+#EXTINF:-1 tvg-id="Regreso al futuro 3",Regreso al futuro 3
+http://wanicelife.com:8880/movie/60mkk110007/21841672/36580.mp4
+
+#EXTINF:-1 tvg-id="Han solo",Han solo
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35228.mp4
+
+#EXTINF:-1 tvg-id="Hansel & Gretel",Hansel & Gretel
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35235.mp4
+
+#EXTINF:-1 tvg-id="Jurasic park 1",Jurasic park 1
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35469.mp4
+
+#EXTINF:-1 tvg-id="Jurasic park 2",Jurasic park 2
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35470.mp4
+
+#EXTINF:-1 tvg-id="Jurasic park 3",Jurasic park 3
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35471.mp4
+
+#EXTINF:-1 tvg-id="Jurassic World",Jurassic World
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35473.mp4
+
+#EXTINF:-1 tvg-id="Jurassic World El reino caido",Jurassic World El reino caido
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35476.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y La Piedra Filosofal",Harry Potter Y La Piedra Filosofal
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35247.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y La Cámara Secreta",Harry Potter Y La Cámara Secreta
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35245.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y El Prisionero De Azkaban",Harry Potter Y El Prisionero De Azkaban
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35244.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y El Cáliz De Fuego",Harry Potter Y El Cáliz De Fuego
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35242.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y La Orden Del Fénix",Harry Potter Y La Orden Del Fénix
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35246.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y El Misterio Del Príncipe",Harry Potter Y El Misterio Del Príncipe
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35243.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y Las Reliquias De La Muerte Parte 1",Harry Potter Y Las Reliquias De La Muerte Parte 1
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35251.mp4
+
+#EXTINF:-1 tvg-id="Harry Potter Y Las Reliquias De La Muerte Parte 2",Harry Potter Y Las Reliquias De La Muerte Parte 2
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35248.mp4
+
+#EXTINF:-1 tvg-id="Animales fantasticos",Animales fantasticos
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34188.mkv
+
+#EXTINF:-1 tvg-id="Armageddon",Armageddon
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34226.mp4
+
+#EXTINF:-1 tvg-id="Charlie Y La Fábrica De Chocolate",Charlie Y La Fábrica De Chocolate
+http://wanicelife.com:8880/movie/60mkk110007/21841672/34481.mp4
+
+#EXTINF:-1 tvg-id="Indiana Jones Y La última Cruzada",Indiana Jones Y La última Cruzada
+http://wanicelife.com:8880/movie/60mkk110007/21841672/35349.mp4

@@ -2,7 +2,7 @@
 http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV2",Caracol TV2
-http://vipsdef.top:8080/VIP01241733031821270/4adab10eb812/4958
+https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/40d9fe6c-98da-41a9-abe9-5541993cbbba:CBF2/variant/1e520c453053339d11584115e501a46f/bandwidth/360800.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV 3",Caracol TV3
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8

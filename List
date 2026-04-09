@@ -1,23 +1,26 @@
 #EXTINF:-1 tvg-id="Caracol TV",Caracol TV
-http://181.78.14.26:8000/play/a00d
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV2",Caracol TV2
-http://38.41.8.1:8000/play/a06i
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 
-#EXTINF:-1 tvg-id="Caracol TV3",Caracol TV 3
-
-
-#EXTINF:-1 tvg-id="Caracol TV4",Caracol TV4
-
+#EXTINF:-1 tvg-id="Caracol TVHD",Caracol TVHD
+http://190.60.49.242:4000/play/a0pt/index.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV5",Caracol TV 5
 http://181.205.130.194:4000/play/a0ck
 
+#EXTINF:-1 tvg-id="SONY",SONY
+http://190.60.49.242:4000/play/a0ir/index.m3u8
+
 #EXTINF:-1 tvg-id="warner",warner
+http://190.60.49.242:4000/play/a0o6/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family",HBO Family
 http://viprteaapi.top:8080/VIP013931739554782338/80e9a605254c/5038
 
-#EXTINF:-1 tvg-id="RCN",RCN
-http://38.41.8.1:8000/play/a06j
+#EXTINF:-1 tvg-id="Sony2",Sony2
+http://190.60.49.242:4000/play/a0n9/index.m3u8
 
-
-"Peliculas"
+#EXTINF:-1 tvg-id="Space",Space
+http://190.60.49.242:4000/play/a0kt/index.m3u8

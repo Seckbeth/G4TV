@@ -24,3 +24,12 @@ http://190.60.49.242:4000/play/a0n9/index.m3u8
 
 #EXTINF:-1 tvg-id="Space",Space
 http://190.60.49.242:4000/play/a0kt/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal",Universal
+http://181.78.8.199:8000/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-id="A&E",A&E
+http://190.60.49.242:4000/play/a0je/index.m3u8
+
+#EXTINF:-1 tvg-id="CineMax",CineMax
+http://190.60.49.242:4000/play/a0iq/index.m3u8

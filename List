@@ -33,3 +33,6 @@ http://190.60.49.242:4000/play/a0je/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMax",CineMax
 http://190.60.49.242:4000/play/a0iq/index.m3u8
+
+#EXTINF:-1 tvg-id="FX",FX
+http://190.151.80.244:9990/play/a0lm/index.m3u8
